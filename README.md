@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="2501.01460">
+  <a href="https://arxiv.org/abs/2501.01460">
     <strong><em>GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution</em></strong>
   </a>
 </p>
