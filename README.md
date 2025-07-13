@@ -23,21 +23,24 @@
     <img src="https://github.com/Doswin/GDSR/blob/page/vis/fig_Network.png" width=95%>
 <p>
 
-# Training and Testing
+## Training and Testing
 
 Please use [BasicSR](https://github.com/XPixelGroup/BasicSR), it is an open-source image super-resolution toolbox based on PyTorch.
 
-## Citation
-```
+## Citation 
+
+If you find this work useful, please consider citing:
+
+```bibtex
 @article{zhu2024gdsr,
     title={GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution},
     author={Zhu, Qiwei and Li, Kai and Zhang, Guojing and Wang, Xiaoying and Huang, Jianqiang and Li, Xilai},
     journal={arXiv preprint arXiv:2501.01460},
     year={2024}
-}        
+} 
 ```
 
-# Reference
+## Reference
 
 Some of the codes in this repo are borrowed from:  
 - [BasicSR](https://github.com/XPixelGroup/BasicSR)  
