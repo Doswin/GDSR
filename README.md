@@ -3,7 +3,7 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://doswin.github.io/GDSR/)&nbsp;
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2507.07105-b31b1b.svg)](https://arxiv.org/abs/2501.01460)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2501.01460-b31b1b.svg)](https://arxiv.org/abs/2501.01460)&nbsp;
 
 </div>
 
