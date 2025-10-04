@@ -47,28 +47,28 @@ Some of the codes in this repo are borrowed from:
 
 <div align="center">
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;" align="center">
+<table>
+  <tr>
+    <td>
       <a href="https://github.com/XPixelGroup/BasicSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&theme=default&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR" />
       </a>
     </td>
-    <td style="border: none; padding: 10px;" align="center">
-      <a href="https://github.com/junjieliwhu/ConvFormerSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&theme=default&show_owner=true" />
+    <td>
+      <a href="https://github.com/junjieliwhu/ConvFormerSR/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR" />
       </a>
     </td>
   </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;" align="center">
+  <tr>
+    <td>
       <a href="https://github.com/Yaziwel/Restore-RWKV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&theme=default&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV" />
       </a>
     </td>
-    <td style="border: none; padding: 10px;" align="center">
+    <td>
       <a href="https://github.com/mandalinadagi/Wavelettention">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&theme=default&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention" />
       </a>
     </td>
   </tr>
