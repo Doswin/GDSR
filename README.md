@@ -43,37 +43,33 @@ If you find this work useful, please consider citing:
 
 ## Reference
 
-Some of the codes in this repo are borrowed from:
+Some of the codes in this repo are borrowed from:  
 
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/XPixelGroup/BasicSR">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR" />
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/junjieliwhu/ConvFormerSR/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/Yaziwel/Restore-RWKV">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV" />
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/mandalinadagi/Wavelettention">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention" />
       </a>
     </td>
   </tr>
 </table>
-
-</div>
 
 Thanks to their great work.
