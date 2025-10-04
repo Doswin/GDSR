@@ -44,31 +44,13 @@ If you find this work useful, please consider citing:
 
 Some of the codes in this repo are borrowed from:  
 
-<table style="background: transparent; border: none;">
-  <tr>
-    <td style="background: transparent; border: none;" align="center">
-      <a href="https://github.com/XPixelGroup/BasicSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&theme=default&show_owner=true" width="400" />
-      </a>
-    </td>
-    <td style="background: transparent; border: none;" align="center">
-      <a href="https://github.com/junjieliwhu/ConvFormerSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&theme=default&show_owner=true" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="background: transparent; border: none;" align="center">
-      <a href="https://github.com/Yaziwel/Restore-RWKV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&theme=default&show_owner=true" width="400" />
-      </a>
-    </td>
-    <td style="background: transparent; border: none;" align="center">
-      <a href="https://github.com/mandalinadagi/Wavelettention">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&theme=default&show_owner=true" width="400" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+| | |
+| :---: | :---: |
+| [![BasicSR](https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&theme=default&show_owner=true)](https://github.com/XPixelGroup/BasicSR) | [![ConvFormerSR](https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&theme=default&show_owner=true)](https://github.com/junjieliwhu/ConvFormerSR) |
+| [![Restore-RWKV](https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&theme=default&show_owner=true)](https://github.com/Yaziwel/Restore-RWKV) | [![Wavelettention](https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&theme=default&show_owner=true)](https://github.com/mandalinadagi/Wavelettention) |
+
+</div>
 
 Thanks to their great work.
