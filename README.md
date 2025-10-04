@@ -48,24 +48,24 @@ Some of the codes in this repo are borrowed from:
   <tr>
     <td align="center">
       <a href="https://github.com/XPixelGroup/BasicSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&show_owner=true&theme=default" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&hide_border=true" width="400" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/junjieliwhu/ConvFormerSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&show_owner=true&theme=default" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&hide_border=true" width="400" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/Yaziwel/Restore-RWKV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&show_owner=true&theme=default" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&hide_border=true" width="400" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/mandalinadagi/Wavelettention">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&show_owner=true&theme=default" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&hide_border=true" width="400" />
       </a>
     </td>
   </tr>
