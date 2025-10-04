@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](https://github.com/Doswin/GDSR/blob/page/vis/GDSR_LOGO.svg)
+![logo](https://github.com/Doswin/GDSR/blob/page/vis/GDSR_LOGO.png)
 
 # [TGRS 2025] GDSR
 
