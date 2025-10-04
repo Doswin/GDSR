@@ -40,16 +40,39 @@ If you find this work useful, please consider citing:
 } 
 ```
 
+
 ## Reference
 
 Some of the codes in this repo are borrowed from:  
 
 <div align="center">
-  
-| | |
-| :---: | :---: |
-| [![BasicSR](https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&theme=default&show_owner=true)](https://github.com/XPixelGroup/BasicSR) | [![ConvFormerSR](https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&theme=default&show_owner=true)](https://github.com/junjieliwhu/ConvFormerSR) |
-| [![Restore-RWKV](https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&theme=default&show_owner=true)](https://github.com/Yaziwel/Restore-RWKV) | [![Wavelettention](https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&theme=default&show_owner=true)](https://github.com/mandalinadagi/Wavelettention) |
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;" align="center">
+      <a href="https://github.com/XPixelGroup/BasicSR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&theme=default&show_owner=true" />
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;" align="center">
+      <a href="https://github.com/junjieliwhu/ConvFormerSR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&theme=default&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;" align="center">
+      <a href="https://github.com/Yaziwel/Restore-RWKV">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&theme=default&show_owner=true" />
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;" align="center">
+      <a href="https://github.com/mandalinadagi/Wavelettention">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&theme=default&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
