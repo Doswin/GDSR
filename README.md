@@ -43,9 +43,13 @@ If you find this work useful, please consider citing:
 ## Reference
 
 Some of the codes in this repo are borrowed from:  
-- [BasicSR](https://github.com/XPixelGroup/BasicSR)  
-- [ConvFormerSR](https://github.com/junjieliwhu/ConvFormerSR/)
-- [Restore-RWKV](https://github.com/Yaziwel/Restore-RWKV) 
-- [Wavelettention](https://github.com/mandalinadagi/Wavelettention)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR)](https://github.com/XPixelGroup/BasicSR)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR)](https://github.com/junjieliwhu/ConvFormerSR/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV)](https://github.com/Yaziwel/Restore-RWKV)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention)](https://github.com/mandalinadagi/Wavelettention)
 
 Thanks to their great work.
