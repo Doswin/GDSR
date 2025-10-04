@@ -39,36 +39,24 @@ If you find this work useful, please consider citing:
     year={2024}
 } 
 ```
-
 ## Reference
 
 Some of the codes in this repo are borrowed from:  
 
-<table style="background-color: transparent;">
-  <tr>
-    <td style="background-color: transparent;" align="center">
-      <a href="https://github.com/XPixelGroup/BasicSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR" width="400" />
-      </a>
-    </td>
-    <td style="background-color: transparent;" align="center">
-      <a href="https://github.com/junjieliwhu/ConvFormerSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color: transparent;" align="center">
-      <a href="https://github.com/Yaziwel/Restore-RWKV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV" width="400" />
-      </a>
-    </td>
-    <td style="background-color: transparent;" align="center">
-      <a href="https://github.com/mandalinadagi/Wavelettention">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention" width="400" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/XPixelGroup/BasicSR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR" width="45%" />
+  </a>
+  <a href="https://github.com/junjieliwhu/ConvFormerSR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR" width="45%" />
+  </a>
+  <br>
+  <a href="https://github.com/Yaziwel/Restore-RWKV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV" width="45%" />
+  </a>
+  <a href="https://github.com/mandalinadagi/Wavelettention">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention" width="45%" />
+  </a>
+</div>
 
 Thanks to their great work.
