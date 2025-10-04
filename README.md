@@ -1,4 +1,12 @@
-# [TGRS 2025] GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution
+<div align="center">
+
+![logo](https://github.com/Doswin/GDSR/blob/page/vis/GDSR_LOGO.svg)
+
+# [TGRS 2025] GDSR
+
+Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution
+
+</div>
 
 <div align="center">
 
