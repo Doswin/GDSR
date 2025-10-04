@@ -39,24 +39,36 @@ If you find this work useful, please consider citing:
     year={2024}
 } 
 ```
+
 ## Reference
 
 Some of the codes in this repo are borrowed from:  
 
-<div align="center">
-  <a href="https://github.com/XPixelGroup/BasicSR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR" width="45%" />
-  </a>
-  <a href="https://github.com/junjieliwhu/ConvFormerSR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR" width="45%" />
-  </a>
-  <br>
-  <a href="https://github.com/Yaziwel/Restore-RWKV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV" width="45%" />
-  </a>
-  <a href="https://github.com/mandalinadagi/Wavelettention">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention" width="45%" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/XPixelGroup/BasicSR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&show_owner=true&theme=default" width="350" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/junjieliwhu/ConvFormerSR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&show_owner=true&theme=default" width="350" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Yaziwel/Restore-RWKV">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&show_owner=true&theme=default" width="350" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mandalinadagi/Wavelettention">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&show_owner=true&theme=default" width="350" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 Thanks to their great work.
