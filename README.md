@@ -43,7 +43,7 @@ If you find this work useful, please consider citing:
 
 ## Reference
 
-Some of the codes in this repo are borrowed from:  
+Some of the codes in this repo are borrowed from:
 
 <div align="center">
 
