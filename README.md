@@ -1,12 +1,8 @@
-<div align="center">
+<img src="https://github.com/Doswin/GDSR/blob/page/vis/GDSR_LOGO.png" width="100" height="100">
 
-<img src="https://github.com/Doswin/GDSR/blob/page/vis/GDSR_LOGO.png" width="200" height="100">
-
-# [TGRS 2025] GDSR
+# [TGRS 2025] <img src="https://github.com/Doswin/GDSR/blob/page/vis/GDSR_LOGO.png" width="100" height="100"> GDSR
 
 Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution
-
-</div>
 
 <div align="center">
 
