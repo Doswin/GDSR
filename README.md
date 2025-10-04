@@ -44,28 +44,28 @@ If you find this work useful, please consider citing:
 
 Some of the codes in this repo are borrowed from:  
 
-<table style="background: none; border: none;">
+<table style="background-color: transparent;">
   <tr>
-    <td style="background: none; border: none;" align="center">
+    <td style="background-color: transparent;" align="center">
       <a href="https://github.com/XPixelGroup/BasicSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&hide_border=true" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR" width="400" />
       </a>
     </td>
-    <td style="background: none; border: none;" align="center">
+    <td style="background-color: transparent;" align="center">
       <a href="https://github.com/junjieliwhu/ConvFormerSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&hide_border=true" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR" width="400" />
       </a>
     </td>
   </tr>
   <tr>
-    <td style="background: none; border: none;" align="center">
+    <td style="background-color: transparent;" align="center">
       <a href="https://github.com/Yaziwel/Restore-RWKV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&hide_border=true" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV" width="400" />
       </a>
     </td>
-    <td style="background: none; border: none;" align="center">
+    <td style="background-color: transparent;" align="center">
       <a href="https://github.com/mandalinadagi/Wavelettention">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&hide_border=true" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention" width="400" />
       </a>
     </td>
   </tr>
