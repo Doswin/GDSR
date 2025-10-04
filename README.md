@@ -40,36 +40,16 @@ If you find this work useful, please consider citing:
 } 
 ```
 
-
 ## Reference
 
 Some of the codes in this repo are borrowed from:  
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/XPixelGroup/BasicSR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/junjieliwhu/ConvFormerSR/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Yaziwel/Restore-RWKV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/mandalinadagi/Wavelettention">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR)](https://github.com/XPixelGroup/BasicSR)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR)](https://github.com/junjieliwhu/ConvFormerSR/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV)](https://github.com/Yaziwel/Restore-RWKV)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention)](https://github.com/mandalinadagi/Wavelettention)
 
 Thanks to their great work.
