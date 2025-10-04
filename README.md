@@ -44,12 +44,12 @@ If you find this work useful, please consider citing:
 
 Some of the codes in this repo are borrowed from:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&theme=ambient_gradient&show_owner=true&description_lines_count=2&layout=compact)](https://github.com/XPixelGroup/BasicSR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XPixelGroup&repo=BasicSR&theme=ambient_gradient&show_owner=true&description_lines_count=2&layout=donut-vertical)](https://github.com/XPixelGroup/BasicSR)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&theme=ambient_gradient&show_owner=true&description_lines_count=2&layout=compact)](https://github.com/junjieliwhu/ConvFormerSR/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junjieliwhu&repo=ConvFormerSR&theme=ambient_gradient&show_owner=true&description_lines_count=2&layout=donut-vertical)](https://github.com/junjieliwhu/ConvFormerSR/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&theme=ambient_gradient&show_owner=true&description_lines_count=2&layout=compact)](https://github.com/Yaziwel/Restore-RWKV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaziwel&repo=Restore-RWKV&theme=ambient_gradient&show_owner=true&description_lines_count=2&layout=donut-vertical)](https://github.com/Yaziwel/Restore-RWKV)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&theme=ambient_gradient&show_owner=true&description_lines_count=2&layout=compact)](https://github.com/mandalinadagi/Wavelettention)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandalinadagi&repo=Wavelettention&theme=ambient_gradient&show_owner=true&description_lines_count=2&layout=donut-vertical)](https://github.com/mandalinadagi/Wavelettention)
 
 Thanks to their great work.
