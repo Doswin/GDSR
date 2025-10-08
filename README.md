@@ -23,10 +23,16 @@
   <strong><em>🚧 Code coming soon. Stay tuned!</em></strong>
 </p> -->
 
-## Overview
+## Network
 
 <p align="center">
     <img src="https://github.com/Doswin/GDSR/blob/page/vis/fig_Network.png" width=95%>
+<p>
+
+## Loss
+
+<p align="center">
+    <img src="https://github.com/Doswin/GDSR/blob/page/vis/fig_Wavelet_loss.png" width=95%>
 <p>
 
 ## Training and Testing
