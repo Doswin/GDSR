@@ -38,12 +38,16 @@ Please use [BasicSR](https://github.com/XPixelGroup/BasicSR), it is an open-sour
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{zhu2024gdsr,
-    title={GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution},
-    author={Zhu, Qiwei and Li, Kai and Zhang, Guojing and Wang, Xiaoying and Huang, Jianqiang and Li, Xilai},
-    journal={arXiv preprint arXiv:2501.01460},
-    year={2024}
-} 
+@ARTICLE{GDSR,
+  author={Zhu, Qiwei and Li, Kai and Zhang, Guojing and Wang, Xiaoying and Huang, Jianqiang and Li, Xilai},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Transformers;Wavelet transforms;Image reconstruction;Computational modeling;Remote sensing;Computer architecture;Feature extraction;Superresolution;Convolutional neural networks;Adaptation models;remote sensing image;super-resolution;global-detail reconstruction;dual-branch},
+  doi={10.1109/TGRS.2025.3617006}}
 ```
 
 ## Reference
